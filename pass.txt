@@ -1,1 +1,5 @@
 User: codeg Pass: co1021999
+Cách cài đặt:
+- Upload code lên host.
+- Import database.
+- Sửa file config: /includes/config.php; /data/config.php; /000/user/config.php; /000/user/oneconfig.php
